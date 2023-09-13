@@ -1,2 +1,1 @@
-# tap-base-catalog
-Tanzu Application Platform GUI Blank Catalog
+Sample org structure for application catalog
